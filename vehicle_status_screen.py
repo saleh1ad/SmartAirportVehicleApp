@@ -1,0 +1,1 @@
+# Vehicle status screen UI code placeholder
